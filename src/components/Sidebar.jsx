@@ -15,13 +15,17 @@ export default function Sidebar({ view, setView, courses, selectedCourse, setSel
   const showAdminGroup =
     canSeeSidebarItem(profile, 'tags') ||
     canSeeSidebarItem(profile, 'permissions') ||
+    canSeeSidebarItem(profile, 'users') ||
     canSeeSidebarItem(profile, 'import');
 
   return (
     <div className="w-56 shrink-0 border-r border-gray-200 h-screen sticky top-0 flex flex-col">
-      <div className="p-4 border-b border-gray-200">
-        <p className="text-sm font-medium">Flight School CRM</p>
-        {profile && <p className="text-xs text-gray-400 mt-0.5">{profile.name}</p>}
+      <div className="p-4 border-b border-gray-200 flex items-center gap-2">
+        <img src="/logo.png" alt="" className="w-8 h-8 object-contain shrink-0" />
+        <div className="min-w-0">
+          <p className="text-sm font-medium truncate">Flight School Student Manager</p>
+          {profile && <p className="text-xs text-gray-400 mt-0.5">{profile.name}</p>}
+        </div>
       </div>
 
       <nav className="flex-1 overflow-y-auto p-3 text-sm">
@@ -76,6 +80,14 @@ export default function Sidebar({ view, setView, courses, selectedCourse, setSel
                 indent
                 active={view === 'permissions'}
                 onClick={() => setView('permissions')}
+              />
+            )}
+            {canSeeSidebarItem(profile, 'users') && (
+              <SidebarItem
+                label="Manage users"
+                indent
+                active={view === 'users'}
+                onClick={() => setView('users')}
               />
             )}
             {canSeeSidebarItem(profile, 'import') && (

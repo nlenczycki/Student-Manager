@@ -260,11 +260,17 @@ export default function ImportView({ onImportComplete }) {
           <ul className="text-sm text-gray-600 space-y-1 mb-4">
             <li>{importResult.studentsUpserted} student record(s) created or updated</li>
             {source === 'cta' ? (
-              <li>{importResult.rowsInserted} snapshot row(s) added</li>
+              <>
+                <li>{importResult.rowsInserted} snapshot row(s) added</li>
+                <li>{importResult.autoSelectedCount} student(s) auto-selected (assigned instructor, not graduated)</li>
+              </>
             ) : (
               <>
                 <li>{importResult.rowsInserted} new {source === 'flightcircle' ? 'session' : 'cancellation'} row(s) added</li>
                 <li>{importResult.rowsSkippedDuplicate} row(s) skipped (already imported previously)</li>
+                {importResult.duplicatesWithinBatch > 0 && (
+                  <li>{importResult.duplicatesWithinBatch} row(s) skipped (duplicated within this file itself)</li>
+                )}
               </>
             )}
           </ul>
@@ -379,7 +385,24 @@ async function importCtaRows(rows) {
     if (error) throw error;
   }
 
-  return { studentsUpserted: upserted, rowsInserted: payload.length };
+  // Auto-select students from this batch who have an assigned
+  // instructor and have not graduated — matches the tracker
+  // spreadsheet's manual "X" column convention. Only ADDS to the shared
+  // selection (see migration 012's ON CONFLICT DO NOTHING); never
+  // removes an existing selection, so this can't silently undo a
+  // manual choice made for other reasons.
+  const studentIds = Object.values(nameKeyToId);
+  let autoSelectedCount = 0;
+  if (studentIds.length > 0) {
+    const { data: autoSelectResult, error: autoSelectError } = await supabase.rpc(
+      'auto_select_active_cta_students',
+      { p_student_ids: studentIds }
+    );
+    if (autoSelectError) throw autoSelectError;
+    autoSelectedCount = autoSelectResult || 0;
+  }
+
+  return { studentsUpserted: upserted, rowsInserted: payload.length, autoSelectedCount };
 }
 
 // Generic dedup-key pagination, shared by importFlightCircleRows and
@@ -414,11 +437,22 @@ async function importFlightCircleRows(rows) {
     graduated_date: null,
   }));
 
-  // Dedup against existing flight_sessions rows by dedup_key, so
-  // re-uploading an overlapping export doesn't double-count hours.
+  // Two dedup passes, not one:
+  //   1. WITHIN this file — the same reservation can appear twice in one
+  //      FlightCircle export (e.g. once as scheduled, once as completed,
+  //      or an overlapping date range pulled into one report). Both
+  //      copies have the same dedup_key, so without this pass, the
+  //      second copy collides with the first INSIDE the same insert
+  //      batch and Postgres rejects it with "duplicate key value
+  //      violates unique constraint" — this was happening on large
+  //      imports specifically because bigger exports are more likely to
+  //      contain an internal duplicate somewhere.
+  //   2. AGAINST the database — rows already imported in a previous run,
+  //      same as before.
+  const { deduped: dedupedWithinBatch, duplicateCount: duplicatesWithinBatch } = dedupWithinBatch(rows);
   const existingKeys = await fetchExistingDedupKeys('flight_sessions');
 
-  const newRows = rows.filter((r) => !existingKeys.has(r.dedup_key));
+  const newRows = dedupedWithinBatch.filter((r) => !existingKeys.has(r.dedup_key));
   const payload = newRows.map((row) => ({
     student_id: nameKeyToId[row.student_name_key] || null,
     student_name_key: row.student_name_key,
@@ -448,7 +482,28 @@ async function importFlightCircleRows(rows) {
     studentsUpserted: upserted,
     rowsInserted: payload.length,
     rowsSkippedDuplicate: rows.length - payload.length,
+    duplicatesWithinBatch,
   };
+}
+
+// Removes rows that share a dedup_key with an earlier row in the SAME
+// batch (see importFlightCircleRows for why this matters — without it,
+// a file containing an internal duplicate causes a unique-constraint
+// violation when both copies land in the same insert). Returns
+// { deduped, duplicateCount }.
+function dedupWithinBatch(rows) {
+  const seen = new Set();
+  const deduped = [];
+  let duplicateCount = 0;
+  for (const r of rows) {
+    if (seen.has(r.dedup_key)) {
+      duplicateCount += 1;
+      continue;
+    }
+    seen.add(r.dedup_key);
+    deduped.push(r);
+  }
+  return { deduped, duplicateCount };
 }
 
 async function importCancellationRows(rows) {
@@ -467,9 +522,10 @@ async function importCancellationRows(rows) {
     graduated_date: null,
   }));
 
+  const { deduped: dedupedWithinBatch, duplicateCount: duplicatesWithinBatch } = dedupWithinBatch(rows);
   const existingKeys = await fetchExistingDedupKeys('cancellations');
 
-  const newRows = rows.filter((r) => !existingKeys.has(r.dedup_key));
+  const newRows = dedupedWithinBatch.filter((r) => !existingKeys.has(r.dedup_key));
   const payload = newRows.map((row) => ({
     student_id: nameKeyToId[row.student_name_key] || null,
     student_name_key: row.student_name_key,
@@ -494,5 +550,6 @@ async function importCancellationRows(rows) {
     studentsUpserted: upserted,
     rowsInserted: payload.length,
     rowsSkippedDuplicate: rows.length - payload.length,
+    duplicatesWithinBatch,
   };
 }

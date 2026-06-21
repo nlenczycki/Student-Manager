@@ -85,10 +85,6 @@ export default function WeeklyProgressView({ students, studentSelections, select
   return (
     <div className="max-w-6xl mx-auto p-6">
       <h1 className="text-lg font-medium mb-1">Weekly progress</h1>
-      <p className="text-sm text-gray-500 mb-4">
-        Matches the tracker spreadsheet's layout — Total Activities, Flights, Flight Hours, Grounds, Ground
-        Hours, and Cancels per student per week.
-      </p>
 
       <div className="flex items-center gap-2 mb-4">
         <input
@@ -157,15 +153,15 @@ export default function WeeklyProgressView({ students, studentSelections, select
                 {visibleWeeks.map((week) =>
                   expandedWeek === week ? (
                     <Fragment key={week}>
-                      <th className="px-2 py-1 font-normal border-l border-gray-200">Total</th>
-                      <th className="px-2 py-1 font-normal">Flights</th>
-                      <th className="px-2 py-1 font-normal">Flt hrs</th>
-                      <th className="px-2 py-1 font-normal">Grounds</th>
-                      <th className="px-2 py-1 font-normal">Gnd hrs</th>
-                      <th className="px-2 py-1 font-normal">Cancels</th>
+                      <th className="px-2 py-1 font-normal border-l border-gray-200 text-center">Total</th>
+                      <th className="px-2 py-1 font-normal text-center">Flights</th>
+                      <th className="px-2 py-1 font-normal text-center">Flt hrs</th>
+                      <th className="px-2 py-1 font-normal text-center">Grounds</th>
+                      <th className="px-2 py-1 font-normal text-center">Gnd hrs</th>
+                      <th className="px-2 py-1 font-normal text-center">Cancels</th>
                     </Fragment>
                   ) : (
-                    <th key={week} className="px-2 py-1 font-normal border-l border-gray-200">Total hrs</th>
+                    <th key={week} className="px-2 py-1 font-normal border-l border-gray-200 text-center">Total hrs</th>
                   )
                 )}
               </tr>
@@ -182,17 +178,17 @@ export default function WeeklyProgressView({ students, studentSelections, select
                   if (expandedWeek === week) {
                     return (
                       <Fragment key={week}>
-                        <td className="px-2 py-1.5 border-l border-gray-100">{m ? m.total_activities : '—'}</td>
-                        <td className="px-2 py-1.5">{m ? m.flights : '—'}</td>
-                        <td className="px-2 py-1.5">{m ? Number(m.flight_hours).toFixed(1) : '—'}</td>
-                        <td className="px-2 py-1.5">{m ? m.grounds : '—'}</td>
-                        <td className="px-2 py-1.5">{m ? Number(m.ground_hours).toFixed(1) : '—'}</td>
-                        <td className="px-2 py-1.5">{m ? m.cancels : '—'}</td>
+                        <td className="px-2 py-1.5 border-l border-gray-100 text-center">{m ? m.total_activities : '—'}</td>
+                        <td className="px-2 py-1.5 text-center">{m ? m.flights : '—'}</td>
+                        <td className="px-2 py-1.5 text-center">{m ? Number(m.flight_hours).toFixed(1) : '—'}</td>
+                        <td className="px-2 py-1.5 text-center">{m ? m.grounds : '—'}</td>
+                        <td className="px-2 py-1.5 text-center">{m ? Number(m.ground_hours).toFixed(1) : '—'}</td>
+                        <td className="px-2 py-1.5 text-center">{m ? m.cancels : '—'}</td>
                       </Fragment>
                     );
                   }
                   return (
-                    <td key={week} className="px-2 py-1.5 border-l border-gray-100">
+                    <td key={week} className="px-2 py-1.5 border-l border-gray-100 text-center">
                       {m ? totalHours(m).toFixed(1) : '—'}
                     </td>
                   );

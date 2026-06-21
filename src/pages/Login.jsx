@@ -36,7 +36,8 @@ export default function Login() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50">
       <form onSubmit={handleSubmit} className="max-w-sm w-full p-6">
-        <h1 className="text-lg font-medium mb-1">Flight School CRM</h1>
+        <img src="/logo.png" alt="" className="w-12 h-12 object-contain mb-3" />
+        <h1 className="text-lg font-medium mb-1">Flight School Student Manager</h1>
         <p className="text-sm text-gray-600 mb-4">Sign in with your school email.</p>
         <input
           type="email"

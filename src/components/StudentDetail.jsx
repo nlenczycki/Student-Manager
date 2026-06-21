@@ -34,8 +34,11 @@ export default function StudentDetail({ student, tags, appliedTags, session, pro
   }, [student.id]);
 
   async function loadNotes() {
+    // notes_with_author (migration 011) joins in the author's display
+    // name server-side, rather than fetching user_profiles separately
+    // and matching it up client-side for every note.
     const { data } = await supabase
-      .from('notes')
+      .from('notes_with_author')
       .select('*')
       .eq('student_id', student.id)
       .order('created_at', { ascending: false });
@@ -332,7 +335,7 @@ export default function StudentDetail({ student, tags, appliedTags, session, pro
           {notes.map((n) => (
             <div key={n.id} className="border border-gray-100 rounded-md p-3 mb-2">
               <p className="text-xs text-gray-500 mb-1">
-                {new Date(n.created_at).toLocaleDateString()} — {n.category}
+                {new Date(n.created_at).toLocaleDateString()} — {n.category} — {n.author_name}
               </p>
               <p className="text-sm">{n.body}</p>
             </div>

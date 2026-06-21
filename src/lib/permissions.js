@@ -36,6 +36,7 @@ export const SIDEBAR_KEYS = [
   { key: 'student', label: 'Student search' },
   { key: 'tags', label: 'Manage tags' },
   { key: 'permissions', label: 'Manage permissions' },
+  { key: 'users', label: 'Manage users' },
   { key: 'import', label: 'Import data' },
 ];
 

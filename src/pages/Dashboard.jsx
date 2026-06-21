@@ -7,6 +7,7 @@ import CourseView from './CourseView';
 import StudentView from './StudentView';
 import TagsView from './TagsView';
 import PermissionsView from './PermissionsView';
+import UsersView from './UsersView';
 import ImportView from './ImportView';
 import WeeklyProgressView from './WeeklyProgressView';
 
@@ -32,7 +33,7 @@ export default function Dashboard({ session }) {
   const [selectionMode, setSelectionMode] = useState('all'); // 'all' | 'selected'
 
   // Navigation state
-  const [view, setView] = useState('school'); // 'school' | 'weekly_progress' | 'course' | 'student' | 'tags' | 'permissions' | 'import'
+  const [view, setView] = useState('school'); // 'school' | 'weekly_progress' | 'course' | 'student' | 'tags' | 'permissions' | 'users' | 'import'
   const [selectedCourse, setSelectedCourse] = useState(null);
   const [selectedStudentId, setSelectedStudentId] = useState(null);
 
@@ -60,9 +61,8 @@ export default function Dashboard({ session }) {
       // per student). See migration 005 for why this is a single
       // all-students aggregate rather than one call per student.
       supabase.rpc('all_student_total_hours'),
-      // RLS scopes this to the current user's own selections automatically
-      // (see migration 010's student_selections_own_only policy) — no
-      // .eq('user_id', ...) needed here, the database already filters it.
+      // Selection is shared across all users as of migration 012 — this
+      // returns every selected student, not just the current user's.
       supabase.from('student_selections').select('student_id'),
       // Fetch the user's profile assignment, joined with the full
       // permissions JSON from profiles. RLS only lets a user see their
@@ -86,10 +86,14 @@ export default function Dashboard({ session }) {
   }
 
   async function toggleSelection(studentId, currentlySelected) {
+    // Selection is shared across all users (migration 012) — keyed by
+    // student_id alone, not scoped to the current user. selected_by is
+    // still recorded as an audit trail of who last toggled it, but
+    // doesn't restrict who can see or change it.
     if (currentlySelected) {
-      await supabase.from('student_selections').delete().match({ user_id: session.user.id, student_id: studentId });
+      await supabase.from('student_selections').delete().eq('student_id', studentId);
     } else {
-      await supabase.from('student_selections').insert({ user_id: session.user.id, student_id: studentId });
+      await supabase.from('student_selections').insert({ student_id: studentId, selected_by: session.user.id });
     }
     loadData();
   }
@@ -239,6 +243,8 @@ export default function Dashboard({ session }) {
         )}
 
         {view === 'permissions' && canSeeSidebarItem(profile, 'permissions') && <PermissionsView />}
+
+        {view === 'users' && canSeeSidebarItem(profile, 'users') && <UsersView />}
 
         {view === 'import' && canSeeSidebarItem(profile, 'import') && <ImportView onImportComplete={loadData} />}
       </div>

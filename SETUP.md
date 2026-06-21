@@ -69,7 +69,16 @@ Total accounts needed, all free at this scale: **GitHub, Supabase, Vercel.**
     Total Activities, Flights, Flight Hours, Grounds, Ground Hours,
     Cancels), and per-user student selection (the checkbox / "show
     selected" feature).
-12. You now have a real database with students, tags, notes, milestones,
+12. Repeat with `supabase/migrations/011_note_authorship.sql` — new
+    query, paste, run. Adds a view joining notes to the author's name,
+    so each note displays who wrote it.
+13. Repeat with `supabase/migrations/012_shared_selection_and_cta_autoselect.sql`
+    — new query, paste, run. **Changes student selection from per-user
+    to shared across all users** (anyone's checkbox changes are now
+    visible to and overwritable by everyone — see the migration's
+    comments for the tradeoff), and makes CTA imports auto-select any
+    student with an assigned instructor who hasn't graduated.
+14. You now have a real database with students, tags, notes, milestones,
     permission profiles, and the permission system we designed, but no
     data in it yet (next: Part 4).
 
@@ -208,18 +217,31 @@ without double-counting.
 
 ## What you have now vs. what's still manual
 
-**Working:** real login, real database, tags and notes that persist for
-everyone who uses the link, fully custom permission profiles (sidebar
-visibility, page-element visibility, and database-enforced write
-capabilities — see the Permissions page), a weekly-hours histogram on
-the student page, expandable course rosters with per-row checkboxes,
-a "show all / show selected" toggle that carries through to School
-totals and the Weekly Progress table, a Weekly Progress tab matching
-the tracker spreadsheet's per-week layout (Total Activities, Flights,
-Flight Hours, Grounds, Ground Hours, Cancels — click a week's header to
-expand the full breakdown), collapsible sidebar groups, a three-source
-in-browser data import tool (CTA, FlightCircle reservations, and
-FlightCircle cancellations), and your actual data loaded in.
+**Working:** real login, real database, tags and notes (now showing who
+wrote each note) that persist for everyone who uses the link, fully
+custom permission profiles (sidebar visibility, page-element visibility,
+and database-enforced write capabilities — see the Permissions page), a
+weekly-hours histogram on the student page, expandable course rosters
+with per-row checkboxes, a "show all / show selected" toggle — now
+**shared across all users** rather than per-user — that carries through
+to School totals and the Weekly Progress table, a Weekly Progress tab
+matching the tracker spreadsheet's per-week layout, collapsible sidebar
+groups, a three-source in-browser data import tool (CTA, FlightCircle
+reservations, and FlightCircle cancellations — CTA imports now
+auto-select active, instructor-assigned students), a Users admin page
+for profile reassignment and password reset emails, your school's logo
+in the sidebar and login screen, and your actual data loaded in.
+
+**On the Users page specifically:** it can reassign profiles and send
+password reset emails, but it cannot show or set anyone's actual
+password (Supabase never stores raw passwords) or generate "temp
+passwords" — that specific action needs Supabase's service-role admin
+API, which can't safely run in browser code. See the comment block at
+the top of `src/pages/UsersView.jsx` for the full reasoning, and the
+in-app "Why can't I see or set passwords directly?" expander. If you
+want true temp-password generation, that's a real, separate feature —
+a small server-side function holding the service role key — worth
+scoping on its own.
 
 **Adding instructors going forward:** have them sign in once (so their
 account exists), then go to **Permissions** in the sidebar and assign

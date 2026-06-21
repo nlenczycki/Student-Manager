@@ -32,6 +32,7 @@ $$ language sql stable security invoker;
 -- which already has a select policy for authenticated users).
 grant execute on function student_total_hours(uuid) to authenticated;
 
+
 -- ===========================================================
 -- MILESTONES — discrete checklist items per student
 --
