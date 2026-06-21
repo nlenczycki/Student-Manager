@@ -1,0 +1,375 @@
+snapshot_date,student_name,student_name_key,instructor_name,instructor_name_key,course,enrolled_date,status,phase_list,all_phases_completed,graduated_date,last_flight_date,source,source_file
+2026-06-20,Nicholas Payne,nicholas payne,Peter Van Chau,peter van chau,Sport / Private Pilot (PP Part 141),12/21/2023,Graduated,,False,10/15/2024,10/2/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Charlotte Kinsey,charlotte kinsey,Andrew Evans,andrew evans,Sport / Private Pilot (PP Part 141),12/18/2025,Active,5,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Heath Fleury,heath fleury,Peter Van Chau,peter van chau,Sport / Private Pilot (PP Part 141),12/15/2023,Graduated,,False,04/17/2025,3/30/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brian Anderson,brian anderson,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),12/11/2023,Graduated,,False,06/12/2024,5/29/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaden Allen,jaden allen,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),11/28/2023,Graduated,,False,06/20/2024,5/28/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cameron Putman,cameron putman,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),11/27/2023,Graduated,,False,04/10/2025,2/14/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Christopher Huysentruyt,christopher huysentruyt,Raymund Bugarin,raymund bugarin,Sport / Private Pilot (PP Part 141),11/27/2023,Graduated,,False,08/18/2025,7/25/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zachary Nichols,zachary nichols,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),11/27/2023,Graduated,,False,03/19/2025,2/26/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cesare Sottile,cesare sottile,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),11/14/2025,Active,5,False,,5/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gavin Green,gavin green,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),11/14/2025,Active,7;8,False,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Eric Nickens Jr,eric nickens jr,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),11/14/2025,Active,5,False,,5/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jackson Eberling,jackson eberling,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),11/13/2023,Graduated,,False,03/25/2025,3/3/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Swinney,noah swinney,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),11/9/2023,Graduated,,False,08/12/2024,6/22/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zain Shah,zain shah,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),11/8/2023,Active,,True,,5/13/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jordan Moore,jordan moore,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Flight Instructor (FI Part 61),11/7/2025,Active,1;2;4,False,,12/31/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Larry Fowler,larry fowler,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),11/6/2023,Graduated,,False,09/23/2024,9/20/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Charris,samuel charris,Keegan Williams,keegan williams,Sport / Private Pilot (PP Part 141),11/5/2024,Graduated,,False,07/08/2025,6/14/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Quinn Wobig,quinn wobig,Mariah Ervin,mariah ervin,Sport / Private Pilot (PP Part 141),11/2/2025,Active,6,False,,5/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaden Parker,jaden parker,Mariah Ervin,mariah ervin,Sport / Private Pilot (PP Part 141),11/2/2025,Active,7,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Benson Rhoney,benson rhoney,Mariah Ervin,mariah ervin,Sport / Private Pilot (PP Part 141),11/2/2025,Active,10,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Elhadji Ndiaye,elhadji ndiaye,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Flight Instructor (FI Part 61),10/27/2024,Active,2;3,False,,7/24/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Steven Brad Lorcher-Bond,steven brad lorcher-bond,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),10/27/2023,Graduated,,False,05/17/2024,4/30/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Christopher Huysentruyt,christopher huysentruyt,Alyssa Strickland,alyssa strickland,Instrument Rating (IR Part 141),10/24/2025,Active,8A,False,,5/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Denzel Frederick,denzel frederick,Daniel Freeman,daniel freeman,Sport / Private Pilot (PP Part 141),10/24/2023,Graduated,,False,01/17/2025,1/13/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Gregory,tyler gregory,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),10/23/2023,Graduated,,False,01/30/2025,1/16/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Fester,tyler fester,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),10/23/2023,Graduated,,False,12/27/2024,12/7/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Winters,caleb winters,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),10/19/2023,Graduated,,False,11/06/2024,10/22/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gabriel Masinde,gabriel masinde,Ben Ventura,ben ventura,Sport / Private Pilot (PP Part 141),10/18/2025,Active,5,False,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Angel Sanchez,angel sanchez,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 141),10/18/2023,Active,,True,,5/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nathaniel Sand,nathaniel sand,Alyssa Strickland,alyssa strickland,Sport / Private Pilot (PP Part 141),10/15/2025,Graduated,,False,06/02/2026,4/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cooper Hawkings,cooper hawkings,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),10/14/2025,Active,5;7,False,,4/30/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,James Green,james green,Daniel Freeman,daniel freeman,Sport / Private Pilot (PP Part 141),10/13/2022,Graduated,,False,05/28/2024,5/26/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Moore,noah moore,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),10/13/2022,Graduated,,False,03/08/2024,1/12/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Oscar Jaramillo Arredondo,oscar jaramillo arredondo,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),10/12/2023,Active,5,False,,4/17/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gavin Morris,gavin morris,Reginald Thomas,reginald thomas,Flight Instructor (FI Part 61),10/9/2024,Active,2;4,False,,2/28/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jazmine Dunham,jazmine dunham,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Flight Instructor (FI Part 61),10/3/2025,Active,1;4,False,,2/11/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,David Milfort St Cyr,david milfort st cyr,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),9/30/2024,Active,,True,,5/14/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cyril Chinenye Udensi,cyril chinenye udensi,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 141),9/27/2025,Active,5,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Keaton Turrentine,keaton turrentine,Brian Lopez,brian lopez,Sport / Private Pilot (PP Part 141),9/26/2024,Graduated,,False,12/09/2025,11/24/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Carolina Beacham,carolina beacham,Talmage Turner,talmage turner,Sport / Private Pilot (PP Part 141),9/23/2024,Active,10,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rafael Campero,rafael campero,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Flight Instructor (FI Part 61),9/22/2025,Active,1;4,False,,11/15/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyrese Andrews,tyrese andrews,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),9/18/2023,Graduated,,False,08/22/2025,8/16/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Martero Wagdy,martero wagdy,Reginald Thomas,reginald thomas,Sport / Private Pilot (PP Part 141),9/7/2021,Graduated,,False,06/18/2023,5/17/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Martero Wagdy,martero wagdy,James Matheney,james matheney,Instrument Rating (IR Part 141),9/1/2022,Graduated,,False,06/13/2024,5/20/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nahom Beyero,nahom beyero,Martin Missey,martin missey,Instrument Rating (IR Part 141),9/1/2022,Graduated,,False,06/05/2024,5/10/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Marissa Lynch,marissa lynch,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/31/2025,Graduated,,False,04/30/2026,3/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Aidan Purcell,aidan purcell,Alyssa Strickland,alyssa strickland,Instrument Rating (IR Part 141),8/31/2025,Active,,True,,5/20/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sean Stacey,sean stacey,Gavin Morris,gavin morris,Instrument Rating (IR Part 141),8/31/2025,Graduated,,False,04/30/2026,3/2/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jarrett Tingen,jarrett tingen,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/31/2025,Active,7,False,,5/21/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Keaton Turrentine,keaton turrentine,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/31/2025,Active,7,False,,6/6/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Deon Young II,deon young ii,Ben Ventura,ben ventura,Instrument Rating (IR Part 141),8/31/2025,Active,8A,False,,6/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Robert Holt,robert holt,Cameron Parchment,cameron parchment,Commercial Pilot (TAA) (COM Part 141),8/31/2025,Active,5,False,,6/3/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sarah Kent,sarah kent,Mariah Ervin,mariah ervin,Commercial Pilot (TAA) (COM Part 141),8/31/2025,Active,5,False,,6/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cameron Putman,cameron putman,Catherine Cummings,catherine cummings,Commercial Pilot (TAA) (COM Part 141),8/31/2025,Active,5,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Justin Smallwood,justin smallwood,Caleb Velez,caleb velez,Commercial Pilot (TAA) (COM Part 141),8/31/2025,Active,6,False,,6/11/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Evan Wilson,evan wilson,Alyssa Strickland,alyssa strickland,Commercial Pilot (TAA) (COM Part 141),8/31/2025,Active,5A,False,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyrese Andrews,tyrese andrews,Caleb Velez,caleb velez,Commercial Pilot (TAA) (COM Part 141),8/31/2024,Active,8A,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Michael David,michael david,Tyler Stanczyk,tyler stanczyk,Commercial Pilot (TAA) (COM Part 141),8/31/2024,Active,8A,False,,6/3/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaydin Hobbs,jaydin hobbs,Mariah Ervin,mariah ervin,Commercial Pilot (TAA) (COM Part 141),8/31/2024,Graduated,,False,04/25/2026,4/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,John Moore,john moore,Keegan Williams,keegan williams,Commercial Pilot (TAA) (COM Part 141),8/31/2024,Graduated,,False,02/21/2026,11/19/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Bridges,tyler bridges,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,05/10/2026,3/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Fester,tyler fester,Brian Lopez,brian lopez,Instrument Rating (IR Part 141),8/31/2024,Active,,True,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Larry Fowler,larry fowler,Alston Belch,alston belch,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,07/03/2025,5/15/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Denzel Frederick,denzel frederick,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/31/2024,Active,,True,,4/21/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Gregory,tyler gregory,Gavin Morris,gavin morris,Instrument Rating (IR Part 141),8/31/2024,Active,8A,False,,3/26/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Egan Hartley,egan hartley,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/31/2024,Active,,True,,5/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Oscar Jaramillo Arredondo,oscar jaramillo arredondo,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,12/03/2025,11/30/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jeremy Martin,jeremy martin,Ben Ventura,ben ventura,Instrument Rating (IR Part 141),8/31/2024,Active,8A,False,,6/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zachary Nichols,zachary nichols,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/31/2024,Active,,True,,5/20/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Hamadou Nkouyate,hamadou nkouyate,Cory Castle,cory castle,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,06/21/2025,6/20/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nicholas Payne,nicholas payne,Madelyn Knowles,madelyn knowles,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,06/23/2025,5/20/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cameron Putman,cameron putman,Catherine Cummings,catherine cummings,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,03/13/2026,1/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Justin Smallwood,justin smallwood,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/31/2024,Graduated,,False,10/23/2025,9/22/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Winters,caleb winters,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/31/2024,Active,,True,,6/7/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Adam Wright,adam wright,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/31/2024,Active,,True,,6/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Talmage Turner,talmage turner,Alex Domingue,alex domingue,Sport / Private Pilot (PP Part 141),8/31/2021,Graduated,,False,03/13/2022,3/4/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jordan Moore,jordan moore,Ron Thompson,ron thompson,Sport / Private Pilot (PP Part 141),8/30/2021,Graduated,,False,05/15/2023,4/4/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Addison Travis,addison travis,Spencer Edwards,spencer edwards,Instrument Rating (IR Part 141),8/28/2023,Graduated,,False,05/31/2024,5/22/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Bayla Felton,bayla felton,Unassigned,unassigned,Instrument Rating (IR Part 141),8/28/2023,Active,6;6A;8;8A,False,,12/4/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Elhadji Ndiaye,elhadji ndiaye,Chavis Arafiles,chavis arafiles,Instrument Rating (IR Part 141),8/28/2023,Graduated,,False,03/05/2024,3/4/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Keith Rodgers,keith rodgers,Ben Ventura,ben ventura,Instrument Rating (IR Part 141),8/28/2023,Active,,True,,4/20/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Traylor-McKnight,tyler traylor-mcknight,Unassigned,unassigned,Instrument Rating (IR Part 141),8/28/2023,Active,8A,False,,2/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Mateo Lannaman,mateo lannaman,James Matheney,james matheney,Instrument Rating (IR Part 141),8/28/2023,Graduated,,False,03/07/2025,2/18/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,David Holmes,david holmes,Ruben Reyes,ruben reyes,Sport / Private Pilot (PP Part 141),8/27/2024,Active,3;4;7;10,False,,5/31/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Allison Perry,allison perry,Caleb Velez,caleb velez,Sport / Private Pilot (PP Part 141),8/27/2024,Active,9,False,,10/30/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Abigail Bricker,abigail bricker,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),8/26/2025,Active,8,False,,4/24/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Amara Bradsher,amara bradsher,John Kemeny,john kemeny,Sport / Private Pilot (PP Part 141),8/26/2025,Active,6;7,False,,5/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zane T Dautel,zane t dautel,Keaton Hurdle,keaton hurdle,Sport / Private Pilot (PP Part 141),8/26/2025,Active,10,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Angel Araus,angel araus,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/26/2025,Active,,True,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Atreyu Cooper,atreyu cooper,Aaron Turbett,aaron turbett,Sport / Private Pilot (PP Part 141),8/26/2024,Graduated,,False,01/10/2025,12/17/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Katelyn Kelly,katelyn kelly,Spencer Edwards,spencer edwards,Commercial Pilot (TAA) (COM Part 141),8/26/2022,Graduated,,False,04/30/2024,4/24/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Talmage Turner,talmage turner,Martin Missey,martin missey,Commercial Pilot (TAA) (COM Part 141),8/26/2022,Graduated,,False,05/13/2024,3/30/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kinsey Beddow,kinsey beddow,Ruben Reyes,ruben reyes,Sport / Private Pilot (PP Part 141),8/25/2025,Active,3,False,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Dylan Cullipher,dylan cullipher,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),8/25/2025,Active,,True,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jonathan Roundtree,jonathan roundtree,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),8/24/2025,Active,5,False,,4/21/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jesse Ferreira,jesse ferreira,Talmage Turner,talmage turner,Sport / Private Pilot (PP Part 141),8/24/2025,Active,10,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Khino Ferguson,khino ferguson,Talmage Turner,talmage turner,Sport / Private Pilot (PP Part 141),8/24/2025,Active,6;7;8;9,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Shane Sidberry,shane sidberry,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),8/24/2025,Active,7,False,,4/7/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gerald Hardy,gerald hardy,Talmage Turner,talmage turner,Sport / Private Pilot (PP Part 141),8/24/2025,Active,3,False,,3/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,William Waun,william waun,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),8/24/2025,Active,3;7,False,,11/24/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Isaiah Rubin,isaiah rubin,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),8/24/2025,Active,3;7,False,,1/27/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Josiah Woodard,josiah woodard,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Instrument Rating (IR Part 141),8/24/2025,Graduated,,False,04/24/2026,4/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Joseph Phillips,joseph phillips,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Instrument Rating (IR Part 141),8/24/2025,Active,8A,False,,5/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ryan Garner,ryan garner,Alyssa Strickland,alyssa strickland,Instrument Rating (IR Part 141),8/24/2025,Active,8A,False,,4/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Shekinah Otieno,shekinah otieno,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Instrument Rating (IR Part 141),8/24/2025,Active,,True,,6/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Michelle Rush,michelle rush,Tania Jones,tania jones,Instrument Rating (IR Part 141),8/24/2025,Active,,True,,6/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Greyson Pierce,greyson pierce,Alex Domingue,alex domingue,Sport / Private Pilot (PP Part 141),8/24/2021,Graduated,,False,05/06/2022,3/16/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Roman Popov,roman popov,Peter Van Chau,peter van chau,Instrument Rating (IR Part 141),8/23/2024,Graduated,,False,01/28/2025,1/2/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jack Scholtz,jack scholtz,Brian Lopez,brian lopez,Commercial Pilot (TAA) (COM Part 141),8/23/2024,Active,8A,False,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Smith,caleb smith,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/23/2024,Graduated,,False,04/23/2025,3/30/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Keagen Albeser,keagen albeser,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/23/2024,Graduated,,False,06/04/2025,5/25/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rodrick Green,rodrick green,Unassigned,unassigned,Instrument Rating (IR Part 141),8/23/2022,Active,5;6;6A;8;8A,False,,12/6/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Liam Pearson,liam pearson,Alex Domingue,alex domingue,Sport / Private Pilot (PP Part 141),8/23/2021,Graduated,,False,03/22/2022,2/21/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Serina Caruso,serina caruso,Jonathan Post,jonathan post,Instrument Rating (IR Part 141),8/23/2021,Graduated,,False,07/05/2022,6/14/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Katelyn Kelly,katelyn kelly,Reginald Thomas,reginald thomas,Instrument Rating (IR Part 141),8/23/2021,Graduated,,False,11/23/2022,10/11/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zane Fredericksen,zane fredericksen,Ryan Brotherton,ryan brotherton,Sport / Private Pilot (PP Part 141),8/22/2024,Graduated,,False,05/07/2025,4/2/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Johnson,samuel johnson,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),8/22/2022,Graduated,,False,10/10/2023,10/6/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Colbyn Underwood,colbyn underwood,Ryan Brotherton,ryan brotherton,Instrument Rating (IR Part 141),8/21/2025,Graduated,,False,03/04/2026,3/3/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Prince William Owusu,prince william owusu,Tania Jones,tania jones,Instrument Rating (IR Part 141),8/21/2025,Active,,True,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Grace Garcia,grace garcia,Peter Van Chau,peter van chau,Instrument Rating (IR Part 141),8/21/2024,Graduated,,False,04/16/2025,3/28/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Dylan T Jones,dylan t jones,Keaton Hurdle,keaton hurdle,Commercial Pilot (TAA) (COM Part 141),8/21/2024,Graduated,,False,05/08/2026,4/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brian Anderson,brian anderson,Reginald Thomas,reginald thomas,Instrument Rating (IR Part 141),8/21/2024,Graduated,,False,06/07/2025,5/20/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jackson Taylor,jackson taylor,Ruben Reyes,ruben reyes,Sport / Private Pilot (PP Part 141),8/21/2024,Active,10,False,,4/23/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rafael Campero,rafael campero,Keegan Williams,keegan williams,Commercial Pilot (TAA) (COM Part 141),8/21/2023,Graduated,,False,04/29/2025,4/17/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gavin Morris,gavin morris,Peter Van Chau,peter van chau,Commercial Pilot (TAA) (COM Part 141),8/21/2023,Graduated,,False,10/07/2024,9/23/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Pettus Jr,samuel pettus jr,Cameron Parchment,cameron parchment,Commercial Pilot (TAA) (COM Part 141),8/21/2023,Graduated,,False,09/04/2025,7/26/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jacob J Smithers,jacob j smithers,Keaton Hurdle,keaton hurdle,Sport / Private Pilot (PP Part 141),8/20/2025,Active,7,False,,4/23/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Hasaan M Nelson,hasaan m nelson,Keaton Hurdle,keaton hurdle,Sport / Private Pilot (PP Part 141),8/20/2025,Active,7,False,,4/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Qwinton D Hemphill,qwinton d hemphill,Unassigned,unassigned,Sport / Private Pilot (PP Part 141),8/20/2025,Active,4;7;8,False,,12/3/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah S Garrow,noah s garrow,Keaton Hurdle,keaton hurdle,Sport / Private Pilot (PP Part 141),8/20/2025,Active,,True,,4/23/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaden Allen,jaden allen,Corey Baker,corey baker,Instrument Rating (IR Part 141),8/20/2024,Graduated,,False,05/03/2025,4/1/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Isaiah Burgan,isaiah burgan,Jonathan Post,jonathan post,Sport / Private Pilot (PP Part 141),8/20/2021,Graduated,,False,02/08/2023,12/16/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Swinney,noah swinney,Alston Belch,alston belch,Instrument Rating (IR Part 141),8/19/2024,Graduated,,False,04/23/2025,3/3/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Benjamin England,benjamin england,Madelyn Knowles,madelyn knowles,Instrument Rating (IR Part 141),8/19/2024,Graduated,,False,06/09/2025,6/4/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Robert Holt,robert holt,Cameron Parchment,cameron parchment,Sport / Private Pilot (PP Part 141),8/19/2024,Graduated,,False,08/04/2025,8/4/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jakob Hill,jakob hill,Gavin Morris,gavin morris,Sport / Private Pilot (PP Part 141),8/19/2024,Active,10,False,,4/7/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Maxwell Meyer,maxwell meyer,Alston Belch,alston belch,Sport / Private Pilot (PP Part 141),8/19/2024,Graduated,,False,08/18/2025,6/26/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Tyler Traylor-McKnight,tyler traylor-mcknight,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),8/19/2022,Graduated,,False,10/30/2023,10/26/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Dylan T Jones,dylan t jones,Chavis Arafiles,chavis arafiles,Sport / Private Pilot (PP Part 141),8/19/2022,Graduated,,False,08/18/2023,8/13/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Xyrous Cooper,xyrous cooper,Ron Thompson,ron thompson,Sport / Private Pilot (PP Part 141),8/19/2022,Graduated,,False,06/24/2023,6/19/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ari-El Joshua,ari-el joshua,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),8/19/2022,Graduated,,False,01/23/2024,1/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Dolan,caleb dolan,Joe Forbes,joe forbes,Instrument Rating (IR Part 141),8/19/2021,Graduated,,False,06/26/2023,6/13/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Larry Fowler,larry fowler,Gavin Morris,gavin morris,Commercial Pilot (TAA) (COM Part 141),8/18/2025,Graduated,,False,05/16/2026,4/21/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Levi Gragg,levi gragg,Ryan Brotherton,ryan brotherton,Instrument Rating (IR Part 141),8/18/2025,Active,8A,False,,4/11/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Charris,samuel charris,Ryan Brotherton,ryan brotherton,Instrument Rating (IR Part 141),8/18/2025,Active,,True,,5/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zane Fredericksen,zane fredericksen,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/18/2025,Active,,True,,6/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Joshua Proctor,joshua proctor,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/18/2025,Active,,True,,6/3/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,David Williams,david williams,Raymund Bugarin,raymund bugarin,Sport / Private Pilot (PP Part 141),8/18/2025,Active,5;7;8,False,,6/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Marty Powell,marty powell,Peter Van Chau,peter van chau,Instrument Rating (IR Part 141),8/18/2023,Graduated,,False,10/16/2024,9/30/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kyle Williams,kyle williams,Martin Missey,martin missey,Instrument Rating (IR Part 141),8/18/2023,Graduated,,False,05/28/2024,5/7/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Dylan T Jones,dylan t jones,Spencer Edwards,spencer edwards,Instrument Rating (IR Part 141),8/18/2023,Graduated,,False,05/29/2024,5/28/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Addison Travis,addison travis,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),8/18/2022,Graduated,,False,09/03/2023,9/1/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zacary Crawford,zacary crawford,Joe Forbes,joe forbes,Sport / Private Pilot (PP Part 141),8/18/2021,Graduated,,False,06/09/2023,6/9/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,William Blake Quinney,william blake quinney,Jonathan Post,jonathan post,Commercial Pilot (TAA) (COM Part 141),8/17/2022,Graduated,,False,02/13/2023,2/9/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brandon Nguyen,brandon nguyen,Ross Ward,ross ward,Instrument Rating (IR Part 141),8/17/2021,Graduated,,False,01/05/2022,12/3/2021,cta_export,Enrollments1781966838566.csv
+2026-06-20,Luke Malavenda,luke malavenda,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/16/2025,Active,8A,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Adrian Gramatges,adrian gramatges,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/16/2025,Graduated,,False,03/22/2026,3/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caria Brittian,caria brittian,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/16/2025,Active,,True,,4/14/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Alexander Gabbert,alexander gabbert,Raymund Bugarin,raymund bugarin,Sport / Private Pilot (PP Part 141),8/16/2025,Active,5,False,,6/5/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gavin Boles,gavin boles,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),8/16/2025,Active,,True,,5/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Antwon Tennant,antwon tennant,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),8/16/2025,Active,3;7,False,,5/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Colby Yawn,colby yawn,Jonathan Post,jonathan post,Commercial Pilot (TAA) (COM Part 141),8/16/2022,Graduated,,False,06/05/2023,5/9/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Peter O'Connor,peter o'connor,Chavis Arafiles,chavis arafiles,Instrument Rating (IR Part 141),8/16/2022,Graduated,,False,05/10/2023,5/9/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ibrahim Tahir,ibrahim tahir,Spencer Edwards,spencer edwards,Instrument Rating (IR Part 141),8/16/2022,Graduated,,False,04/30/2024,4/27/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Keith Rodgers,keith rodgers,Brandon Nguyen,brandon nguyen,Sport / Private Pilot (PP Part 141),8/16/2022,Graduated,,False,12/04/2023,10/25/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gavin Morris,gavin morris,Cory Castle,cory castle,Sport / Private Pilot (PP Part 141),8/16/2022,Graduated,,False,04/03/2023,11/28/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,William Bailey,william bailey,Jonathan Post,jonathan post,Instrument Rating (IR Part 141),8/16/2021,Graduated,,False,02/10/2022,1/27/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Johnson,samuel johnson,James Matheney,james matheney,Instrument Rating (IR Part 141),8/15/2023,Graduated,,False,01/20/2025,12/12/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Xyrous Cooper,xyrous cooper,Brandyn Petteway,brandyn petteway,Instrument Rating (IR Part 141),8/15/2023,Graduated,,False,04/24/2024,4/5/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Emmett Williams-Bombeck,emmett williams-bombeck,Tyler Stanczyk,tyler stanczyk,Instrument Rating (IR Part 141),8/15/2023,Active,8A,False,,5/22/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kyle Williams,kyle williams,Martin Missey,martin missey,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,08/18/2023,8/9/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Raymund Bugarin,raymund bugarin,Ron Thompson,ron thompson,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,06/25/2023,6/2/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nahom Beyero,nahom beyero,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,10/23/2023,10/20/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Matthew Powell,matthew powell,Unassigned,unassigned,Sport / Private Pilot (PP Part 141),8/15/2022,Active,1;2;4;7;8,False,,12/4/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Elhadji Ndiaye,elhadji ndiaye,Daniel Freeman,daniel freeman,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,11/06/2023,11/3/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jackson McCollum,jackson mccollum,Ron Thompson,ron thompson,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,06/08/2023,5/5/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Bayla Felton,bayla felton,Brandon Nguyen,brandon nguyen,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,11/13/2023,11/3/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Mateo Lannaman,mateo lannaman,Brandon Nguyen,brandon nguyen,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,10/24/2023,10/23/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaydin Hobbs,jaydin hobbs,Brenna Daniel,brenna daniel,Sport / Private Pilot (PP Part 141),8/15/2022,Graduated,,False,06/25/2023,6/6/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,James Littlefair Jr,james littlefair jr,Caleb Velez,caleb velez,Instrument Rating (IR Part 141),8/14/2025,Graduated,,False,04/02/2026,2/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kerolos Wahib,kerolos wahib,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),8/14/2025,Active,5;6;7;8,False,,4/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Wills,noah wills,Gavin Morris,gavin morris,Sport / Private Pilot (PP Part 141),8/14/2025,Graduated,,False,04/02/2026,2/13/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kii-Reese Cummings,kii-reese cummings,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 141),8/14/2025,Active,,True,,5/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Matthew Jones,matthew jones,James Matheney,james matheney,Instrument Rating (IR Part 141),8/14/2023,Graduated,,False,05/31/2024,5/21/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jazmine Dunham,jazmine dunham,Martin Missey,martin missey,Instrument Rating (IR Part 141),8/14/2023,Graduated,,False,06/28/2024,6/7/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Raymund Bugarin,raymund bugarin,Brandon Nguyen,brandon nguyen,Instrument Rating (IR Part 141),8/14/2023,Graduated,,False,01/03/2024,12/19/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Harrison Stacey,harrison stacey,Cory Castle,cory castle,Instrument Rating (IR Part 141),8/14/2023,Graduated,,False,05/29/2024,5/21/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Anna Marie Lewis,anna marie lewis,Tania Jones,tania jones,Instrument Rating (IR Part 141),8/13/2025,Active,,True,,5/14/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,David Kerlin,david kerlin,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),8/13/2025,Active,,True,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Atreyu Cooper,atreyu cooper,Austin Householder,austin householder,Commercial Pilot (TAA) (COM Part 141),8/13/2025,Active,8A,False,,5/23/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Thomas Nordskog,thomas nordskog,Daniel Freeman,daniel freeman,Commercial Pilot (TAA) (COM Part 141),8/13/2025,Active,8A,False,,6/7/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Hamadou Nkouyate,hamadou nkouyate,Zion Boggess,zion boggess,Commercial Pilot (TAA) (COM Part 141),8/13/2025,Active,8,False,,6/7/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Charles Reed,charles reed,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),8/11/2025,Graduated,,False,03/14/2026,3/5/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Serina Caruso,serina caruso,Chavis Arafiles,chavis arafiles,Commercial Pilot (TAA) (COM Part 141),7/28/2022,Graduated,,False,06/07/2023,5/17/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Mariah Ervin,mariah ervin,Mark Roberts,mark roberts,Flight Instructor (FI Part 61),7/2/2025,Active,4A,False,,9/23/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brandon Gillespie,brandon gillespie,Daniel Freeman,daniel freeman,Commercial Pilot (TAA) (COM Part 141),6/25/2024,Graduated,,False,12/09/2025,11/29/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Devon Bronson,devon bronson,Brandon Nguyen,brandon nguyen,Sport / Private Pilot (PP Part 61),5/24/2023,Graduated,,False,08/03/2023,8/2/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Uziah Lowe,uziah lowe,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),5/19/2026,Active,2;7,False,,6/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kylan Bunch,kylan bunch,Zakary Stewart,zakary stewart,Commercial Pilot (TAA) (COM Part 141),5/18/2021,Graduated,,False,06/07/2022,5/31/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Evan Wilson,evan wilson,Alston Belch,alston belch,Sport / Private Pilot (PP Part 141),5/13/2024,Graduated,,False,02/15/2025,1/8/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Talmage Turner,talmage turner,Unassigned,unassigned,Flight Instructor (FI Part 61),5/13/2024,Active,2;3;4,False,,11/8/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Mariah Ervin,mariah ervin,Madelyn Knowles,madelyn knowles,Commercial Pilot (TAA) (COM Part 141),5/8/2024,Graduated,,False,06/28/2025,4/28/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Miles Bates,miles bates,Mariah Ervin,mariah ervin,Sport / Private Pilot (PP Part 141),5/5/2026,Active,2;6;7;8,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Garett Meads,garett meads,Raymund Bugarin,raymund bugarin,Sport / Private Pilot (PP Part 141),5/2/2025,Active,5,False,,6/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Xyrous Cooper,xyrous cooper,Mark Roberts,mark roberts,Flight Instructor (FI Part 61),5/2/2025,Active,,True,,9/9/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Marissa Lynch,marissa lynch,Gavin Morris,gavin morris,Commercial Pilot (TAA) (COM Part 141),4/30/2026,Active,1,False,,6/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Patrick Dail,patrick dail,Raymund Bugarin,raymund bugarin,Sport / Private Pilot (PP Part 141),4/30/2025,Active,10,False,,4/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Thomas Cook,thomas cook,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),4/28/2026,Active,1;2,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Josiah Woodard,josiah woodard,Patrick Raine Caverly-Horn,patrick raine caverly-horn,Commercial Pilot (TAA) (COM Part 141),4/24/2026,Active,1,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Justin Smallwood,justin smallwood,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),4/23/2024,Graduated,,False,11/04/2024,10/22/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Yaroslav Conrad,yaroslav conrad,Ben Ventura,ben ventura,Sport / Private Pilot (PP Part 141),4/22/2026,Active,2,False,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Isaiah Macklin,isaiah macklin,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),4/21/2026,Active,1;2;7,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Liam Pearson,liam pearson,Joe Forbes,joe forbes,Commercial Pilot (TAA) (COM Part 141),4/20/2023,Graduated,,False,05/08/2024,5/7/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Christina Bissonnette,christina bissonnette,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 141),4/19/2026,Active,5,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Olivia Schmocker,olivia schmocker,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),4/19/2026,Active,2;3,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Emily Buell,emily buell,Madelyn Knowles,madelyn knowles,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/24/2024,7/19/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jacob Burnett,jacob burnett,Alston Belch,alston belch,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/23/2024,7/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Robin Dallas,robin dallas,Cory Castle,cory castle,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/20/2024,7/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Joshua Feria,joshua feria,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/21/2024,7/19/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Aiden Lacavich,aiden lacavich,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/19/2024,7/17/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cody Quarles,cody quarles,Martin Missey,martin missey,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/16/2024,7/10/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Andrew Sheehan,andrew sheehan,James Matheney,james matheney,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/17/2024,7/16/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kaylee Tomey,kaylee tomey,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/29/2024,7/27/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Garrett Wade,garrett wade,Peter Van Chau,peter van chau,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/15/2024,7/5/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rachel Dieterich,rachel dieterich,Alston Belch,alston belch,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/22/2024,7/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Matthew Do,matthew do,Madelyn Knowles,madelyn knowles,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/24/2024,7/19/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Joseph Lavdas,joseph lavdas,Cory Castle,cory castle,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/15/2024,7/9/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sophia Lin,sophia lin,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/22/2024,7/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Joy Nolte,joy nolte,Peter Van Chau,peter van chau,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/23/2024,7/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nolan Roldan,nolan roldan,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/19/2024,7/18/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Johnny Velez,johnny velez,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),4/19/2024,Graduated,,False,07/17/2024,7/16/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Maureen York,maureen york,James Matheney,james matheney,Sport / Private Pilot (PP FITS),4/19/2024,Graduated,,False,07/27/2024,7/27/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Emma Cruz,emma cruz,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),4/18/2026,Active,2,False,,6/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Chase Heatherly,chase heatherly,John Kemeny,john kemeny,Sport / Private Pilot (PP Part 141),4/18/2026,Active,5,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Arturo Deasis,arturo deasis,Tyler Stanczyk,tyler stanczyk,Sport / Private Pilot (PP Part 141),4/18/2026,Active,2;7,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jacob Owen,jacob owen,Alyssa Strickland,alyssa strickland,Sport / Private Pilot (PP Part 141),4/18/2026,Active,2;6,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Madeleine Rose,madeleine rose,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),4/18/2026,Active,2;7,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Isabella Hauri,isabella hauri,Martin Missey,martin missey,Sport / Private Pilot (PP FITS),4/18/2023,Graduated,,False,07/29/2023,7/20/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ryan Inge,ryan inge,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 61),4/18/2023,Graduated,,False,07/26/2023,7/25/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Audrey Groger,audrey groger,Spencer Edwards,spencer edwards,Sport / Private Pilot (PP Part 61),4/18/2023,Graduated,,False,08/05/2023,7/28/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Landon Peake,landon peake,Chavis Arafiles,chavis arafiles,Sport / Private Pilot (PP FITS),4/18/2023,Graduated,,False,07/23/2023,7/21/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Christopher Troncoso,christopher troncoso,Martin Missey,martin missey,Sport / Private Pilot (PP Part 61),4/18/2023,Graduated,,False,07/21/2023,7/18/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zion Kostyra,zion kostyra,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),4/12/2025,Active,5;7,False,,5/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sing-Lung Leathers,sing-lung leathers,John Kemeny,john kemeny,Sport / Private Pilot (PP Part 141),4/12/2025,Active,6;7;8,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Anthony Bartolotta Jr,anthony bartolotta jr,John Kemeny,john kemeny,Sport / Private Pilot (PP Part 141),4/7/2026,Active,6;7,False,,6/20/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,James Littlefair Jr,james littlefair jr,Caleb Velez,caleb velez,Commercial Pilot (TAA) (COM Part 141),4/2/2026,Active,5,False,,6/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Wills,noah wills,Gavin Morris,gavin morris,Instrument Rating (IR Part 141),4/2/2026,Active,,True,,6/5/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Adrian Gramatges,adrian gramatges,Daniel Freeman,daniel freeman,Commercial Pilot (TAA) (COM Part 141),3/22/2026,Active,4,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Elizabeth Henao Ceballos,elizabeth henao ceballos,Ryan Brotherton,ryan brotherton,Sport / Private Pilot (PP Part 141),3/14/2025,Graduated,,False,06/06/2026,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Dawson Louya,dawson louya,Keegan Williams,keegan williams,Sport / Private Pilot (PP Part 141),3/14/2025,Graduated,,False,03/27/2026,3/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jumoke Beveridge,jumoke beveridge,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),3/6/2026,Active,2;7,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Colbyn Underwood,colbyn underwood,Ryan Brotherton,ryan brotherton,Commercial Pilot (TAA) (COM Part 141),3/5/2026,Active,5,False,,5/12/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Mercer,caleb mercer,Ruben Reyes,ruben reyes,Sport / Private Pilot (PP Part 141),3/3/2026,Active,2;7,False,,5/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Parker Orr,parker orr,Ruben Reyes,ruben reyes,Sport / Private Pilot (PP Part 141),3/3/2026,Active,3;7,False,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cade Roffers,cade roffers,Tyler Stanczyk,tyler stanczyk,Instrument Rating (IR Part 141),3/3/2026,Active,6A;7;8;8A,False,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Alexander Pirtle,alexander pirtle,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),2/25/2025,Active,9;10,False,,4/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,John Moore,john moore,Mark Roberts,mark roberts,Flight Instructor (FI Part 61),2/24/2026,Active,4,False,,5/19/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sean Stacey,sean stacey,Gavin Morris,gavin morris,Sport / Private Pilot (PP Part 141),2/15/2024,Graduated,,False,10/24/2025,9/23/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Michael Johnson II,michael johnson ii,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),2/14/2025,Active,10,False,,5/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Asa Wheeler II,asa wheeler ii,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),2/12/2025,Active,6;7,False,,4/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,William Bailey,william bailey,Cory Castle,cory castle,Commercial Pilot (TAA) (COM Part 141),2/10/2022,Graduated,,False,05/10/2023,4/27/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Niarea Matthews,niarea matthews,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),2/6/2024,Active,10,False,,6/10/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ian Robertson,ian robertson,Alyssa Strickland,alyssa strickland,Instrument Rating (IR Part 141),1/29/2026,Active,,True,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Aidan Purcell,aidan purcell,Keegan Williams,keegan williams,Sport / Private Pilot (PP Part 141),1/27/2025,Graduated,,False,10/07/2025,9/12/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jackson Eberling,jackson eberling,Noah Curtis,noah curtis,Instrument Rating (IR Part 141),1/23/2025,Active,,True,,6/3/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Heath Fleury,heath fleury,Tania Jones,tania jones,Instrument Rating (IR Part 141),1/23/2025,Active,8A,False,,5/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Robert Holt,robert holt,Cameron Parchment,cameron parchment,Instrument Rating (IR Part 141),1/23/2025,Graduated,,False,02/24/2026,2/13/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sarah Kent,sarah kent,Madelyn Knowles,madelyn knowles,Instrument Rating (IR Part 141),1/23/2025,Graduated,,False,12/10/2025,11/25/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nick Louloudes,nick louloudes,Tania Jones,tania jones,Instrument Rating (IR Part 141),1/23/2025,Active,,True,,5/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jermaine March,jermaine march,Ben Ventura,ben ventura,Instrument Rating (IR Part 141),1/23/2025,Active,8A,False,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Maxwell Meyer,maxwell meyer,Ben Ventura,ben ventura,Instrument Rating (IR Part 141),1/23/2025,Active,,True,,5/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Evan Wilson,evan wilson,Alston Belch,alston belch,Instrument Rating (IR Part 141),1/23/2025,Graduated,,False,10/20/2025,9/24/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Keagen Albeser,keagen albeser,Mike Pattishall,mike pattishall,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,5;6;8,False,,6/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaden Allen,jaden allen,Patrick Dowd,patrick dowd,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,8A,False,,5/19/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brian Anderson,brian anderson,Alyssa Strickland,alyssa strickland,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,,True,,5/19/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Benjamin England,benjamin england,Ben Ventura,ben ventura,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Graduated,,False,04/02/2026,3/30/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Grace Garcia,grace garcia,Cameron Parchment,cameron parchment,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,,True,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Moore,noah moore,John Kemeny,john kemeny,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,5A;6;8,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nicholas Payne,nicholas payne,Ty Burgess,ty burgess,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,7,False,,5/30/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Roman Popov,roman popov,Xyrous Cooper,xyrous cooper,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Graduated,,False,06/03/2026,6/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Smith,caleb smith,Tania Jones,tania jones,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,4,False,,4/30/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Swinney,noah swinney,Brian Lopez,brian lopez,Commercial Pilot (TAA) (COM Part 141),1/23/2025,Active,8A,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nahom Beyero,nahom beyero,Cory Castle,cory castle,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,06/17/2025,5/16/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Isaiah Burgan,isaiah burgan,Ryan Brotherton,ryan brotherton,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Active,,True,,4/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Xyrous Cooper,xyrous cooper,Alston Belch,alston belch,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,05/02/2025,3/15/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zacary Crawford,zacary crawford,Joe Forbes,joe forbes,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,08/29/2025,8/27/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jazmine Dunham,jazmine dunham,Ryan Brotherton,ryan brotherton,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,08/19/2025,8/4/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Johnson,samuel johnson,Austin Householder,austin householder,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Active,8A,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Matthew Jones,matthew jones,Patrick Dowd,patrick dowd,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,11/19/2025,9/22/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Mateo Lannaman,mateo lannaman,MIcah Recicar,micah recicar,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Active,6;8,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jordan Moore,jordan moore,Madelyn Knowles,madelyn knowles,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,10/15/2025,9/26/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Elhadji Ndiaye,elhadji ndiaye,James Matheney,james matheney,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,09/06/2024,8/20/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Marty Powell,marty powell,Raymund Bugarin,raymund bugarin,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Active,,True,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Harrison Stacey,harrison stacey,Gavin Morris,gavin morris,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,12/16/2025,11/14/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Addison Travis,addison travis,Alston Belch,alston belch,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,09/22/2025,8/4/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Martero Wagdy,martero wagdy,Ryan Brotherton,ryan brotherton,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,01/21/2026,10/16/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kyle Williams,kyle williams,Alston Belch,alston belch,Commercial Pilot (TAA) (COM Part 141),1/23/2024,Graduated,,False,09/19/2025,8/22/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,James Green,james green,Reginald Thomas,reginald thomas,Instrument Rating (IR Part 141),1/23/2024,Graduated,,False,12/30/2024,12/4/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ari-El Joshua,ari-el joshua,Michael Pinner,michael pinner,Instrument Rating (IR Part 141),1/23/2024,Active,4A,False,,4/23/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Steven Brad Lorcher-Bond,steven brad lorcher-bond,Gavin Morris,gavin morris,Instrument Rating (IR Part 141),1/23/2024,Graduated,,False,01/22/2026,12/9/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Noah Moore,noah moore,Robert Dunn,robert dunn,Instrument Rating (IR Part 141),1/23/2024,Graduated,,False,01/27/2025,1/14/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Natalie Wheat,natalie wheat,MIcah Recicar,micah recicar,Sport / Private Pilot (PP Part 141),1/23/2024,Active,7;8;9,False,,5/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Nick Louloudes,nick louloudes,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),1/22/2024,Graduated,,False,05/24/2025,4/28/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jarrett Tingen,jarrett tingen,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),1/21/2025,Graduated,,False,01/23/2026,1/13/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,William Blake Quinney,william blake quinney,Jonathan Post,jonathan post,Instrument Rating (IR Part 141),1/19/2022,Graduated,,False,07/06/2022,7/1/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Isaiah Burgan,isaiah burgan,Spencer Edwards,spencer edwards,Instrument Rating (IR Part 141),1/19/2022,Graduated,,False,08/12/2024,8/12/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Zacary Crawford,zacary crawford,Joe Forbes,joe forbes,Instrument Rating (IR Part 141),1/19/2022,Graduated,,False,05/22/2024,5/9/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Liam Pearson,liam pearson,Joe Forbes,joe forbes,Instrument Rating (IR Part 141),1/19/2022,Graduated,,False,04/20/2023,4/17/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Greyson Pierce,greyson pierce,Divinity Price,divinity price,Instrument Rating (IR Part 141),1/19/2022,Graduated,,False,01/18/2023,12/30/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Talmage Turner,talmage turner,Brenna Daniel,brenna daniel,Instrument Rating (IR Part 141),1/19/2022,Graduated,,False,05/13/2023,4/13/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Faith Lake,faith lake,Tania Jones,tania jones,Instrument Rating (IR Part 141),1/18/2026,Active,7;8;8A,False,,5/6/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Aiyana De La Oz,aiyana de la oz,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),1/18/2026,Active,2;3;4;7,False,,4/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Charli Brooks,charli brooks,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),1/18/2026,Active,5,False,,6/11/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Christopher Vernon,christopher vernon,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),1/18/2026,Active,6;7;8,False,,5/5/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Eliza Greenhalgh,eliza greenhalgh,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),1/18/2026,Active,5,False,,5/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jordan Moore,jordan moore,Chavis Arafiles,chavis arafiles,Instrument Rating (IR Part 141),1/18/2023,Graduated,,False,04/24/2024,4/22/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brandon Nguyen,brandon nguyen,Brenna Daniel,brenna daniel,Commercial Pilot (TAA) (COM Part 141),1/18/2022,Graduated,,False,10/08/2022,10/7/2022,cta_export,Enrollments1781966838566.csv
+2026-06-20,Terendius David Jr,terendius david jr,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),1/17/2025,Active,,True,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Terry Sibanda,terry sibanda,Talmage Turner,talmage turner,Sport / Private Pilot (PP Part 141),1/17/2025,Active,4;8,False,,12/2/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Sarah Kent,sarah kent,Madelyn Knowles,madelyn knowles,Sport / Private Pilot (PP Part 141),1/17/2024,Graduated,,False,04/14/2025,3/27/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Luca Gurney,luca gurney,Raymund Bugarin,raymund bugarin,Sport / Private Pilot (PP Part 141),1/16/2025,Active,7;9,False,,6/4/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Preston Gerald,preston gerald,Andrew Evans,andrew evans,Sport / Private Pilot (PP Part 141),1/16/2025,Active,5,False,,4/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jacob Moore,jacob moore,Mike Pattishall,mike pattishall,Sport / Private Pilot (PP Part 141),1/15/2025,Active,,True,,5/20/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Raymi Sharp,raymi sharp,Cameron Parchment,cameron parchment,Sport / Private Pilot (PP Part 141),1/15/2025,Active,,True,,5/26/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Deon Young II,deon young ii,Brian Lopez,brian lopez,Sport / Private Pilot (PP Part 141),1/15/2025,Graduated,,False,01/04/2026,12/16/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Donovan Whitfield,donovan whitfield,Tyler Stanczyk,tyler stanczyk,Instrument Rating (IR Part 141),1/14/2026,Active,8A,False,,5/20/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Michael Simfukwe,michael simfukwe,Tyler Stanczyk,tyler stanczyk,Sport / Private Pilot (PP Part 141),1/14/2026,Active,5,False,,5/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ethan Rushing,ethan rushing,Tyler Stanczyk,tyler stanczyk,Sport / Private Pilot (PP Part 141),1/14/2026,Active,6;7,False,,5/22/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Marcus Holbrooks,marcus holbrooks,Tyler Stanczyk,tyler stanczyk,Sport / Private Pilot (PP Part 141),1/14/2026,Active,5,False,,5/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rachel Walker,rachel walker,Tyler Stanczyk,tyler stanczyk,Sport / Private Pilot (PP Part 141),1/14/2026,Active,6,False,,5/1/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ian Robertson,ian robertson,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),1/14/2025,Graduated,,False,01/29/2026,12/1/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Ayah Muhammad,ayah muhammad,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),1/14/2025,Active,10,False,,2/24/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Grason Sherman,grason sherman,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),1/14/2025,Active,,True,,4/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Bryson Parker,bryson parker,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),1/13/2026,Active,8A,False,,6/3/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,James Green,james green,Ty Burgess,ty burgess,Commercial Pilot (TAA) (COM Part 141),1/13/2025,Graduated,,False,01/13/2026,11/24/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Atreyu Cooper,atreyu cooper,Madelyn Knowles,madelyn knowles,Instrument Rating (IR Part 141),1/13/2025,Graduated,,False,06/17/2025,5/16/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Thomas Nordskog,thomas nordskog,Daniel Freeman,daniel freeman,Instrument Rating (IR Part 141),1/13/2025,Graduated,,False,06/19/2025,6/14/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Cassandra Goldsmith,cassandra goldsmith,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),1/12/2026,Active,5;6;7,False,,6/5/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Morgan Richardson,morgan richardson,Patrick Dowd,patrick dowd,Sport / Private Pilot (PP Part 141),1/12/2026,Active,5;6;7,False,,4/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Alessandro Andriani,alessandro andriani,Alyssa Strickland,alyssa strickland,Sport / Private Pilot (PP Part 141),1/12/2026,Active,6,False,,5/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brock Schmittle,brock schmittle,Ben Ventura,ben ventura,Sport / Private Pilot (PP Part 141),1/12/2026,Active,5,False,,4/29/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Karsten Levitz,karsten levitz,Talmage Turner,talmage turner,Sport / Private Pilot (PP Part 141),1/12/2026,Active,5;7;8,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Peter O'Connor,peter o'connor,Peter Van Chau,peter van chau,Commercial Pilot (TAA) (COM Part 141),1/12/2023,Graduated,,False,04/05/2025,2/26/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Gavin Morris,gavin morris,Unassigned,unassigned,Instrument Rating (IR Part 141),1/12/2023,Graduated,,False,12/04/2023,11/28/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Greyson Pierce,greyson pierce,Brandyn Petteway,brandyn petteway,Commercial Pilot (TAA) (COM Part 141),1/12/2023,Graduated,,False,10/19/2023,10/3/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Oscar Jaramillo Arredondo,oscar jaramillo arredondo,Mike Pattishall,mike pattishall,Commercial Pilot (TAA) (COM Part 141),1/11/2026,Active,5;6;8,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Stephen Norwood III,stephen norwood iii,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),1/11/2026,Active,5,False,,5/8/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Harper Godboldo,harper godboldo,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 61),1/11/2026,Active,,True,,6/19/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Aaron Bartone,aaron bartone,Xyrous Cooper,xyrous cooper,Sport / Private Pilot (PP Part 141),1/11/2026,Active,5,False,,5/18/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Dolorien Rollins-Montgomery,dolorien rollins-montgomery,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 141),1/11/2026,Active,3,False,,4/7/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caleb Dolan,caleb dolan,Martin Missey,martin missey,Commercial Pilot (TAA) (COM Part 141),1/11/2024,Graduated,,False,05/19/2025,2/18/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Adam Wright,adam wright,Caleb Velez,caleb velez,Sport / Private Pilot (PP Part 141),1/11/2024,Graduated,,False,06/21/2025,4/28/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Donell James,donell james,Andrew Evans,andrew evans,Sport / Private Pilot (PP Part 141),1/10/2026,Active,7,False,,6/15/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Caden Knight,caden knight,Andrew Evans,andrew evans,Sport / Private Pilot (PP Part 141),1/10/2026,Active,7,False,,6/11/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Logan Wenninger,logan wenninger,Andrew Evans,andrew evans,Sport / Private Pilot (PP Part 141),1/10/2026,Active,5,False,,6/9/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Kelnisha Walls,kelnisha walls,Tania Jones,tania jones,Sport / Private Pilot (PP Part 141),1/10/2026,Active,5,False,,5/28/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jude Sutterfield,jude sutterfield,Mariah Ervin,mariah ervin,Sport / Private Pilot (PP Part 141),1/10/2026,Active,3;4;7,False,,4/13/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Aaron Latimer,aaron latimer,Zion Boggess,zion boggess,Sport / Private Pilot (PP Part 141),1/10/2025,Active,10,False,,6/16/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Taylor Byrum,taylor byrum,Ty Burgess,ty burgess,Sport / Private Pilot (PP Part 141),1/10/2024,Active,9;10,False,,10/20/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jermaine March,jermaine march,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),1/10/2024,Graduated,,False,05/01/2025,4/1/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Brandon Gillespie,brandon gillespie,Spencer Edwards,spencer edwards,Instrument Rating (IR Part 141),1/10/2024,Graduated,,False,06/22/2024,6/20/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jordan Coore,jordan coore,Ryan Brotherton,ryan brotherton,Sport / Private Pilot (PP Part 141),1/10/2024,Graduated,,False,06/02/2025,4/28/2025,cta_export,Enrollments1781966838566.csv
+2026-06-20,Lawrence Higgs,lawrence higgs,Austin Householder,austin householder,Sport / Private Pilot (PP Part 141),1/10/2024,Active,,True,,4/6/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rylan Penley,rylan penley,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),1/10/2023,Graduated,,False,06/27/2024,6/3/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Odalis Arguijo,odalis arguijo,Ruben Reyes,ruben reyes,Sport / Private Pilot (PP Part 141),1/9/2026,Active,3,False,,6/17/2026,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jaydin Hobbs,jaydin hobbs,Reginald Thomas,reginald thomas,Instrument Rating (IR Part 141),1/9/2024,Graduated,,False,12/07/2024,10/31/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Michael David,michael david,Peter Van Chau,peter van chau,Instrument Rating (IR Part 141),1/9/2024,Graduated,,False,11/11/2024,10/12/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Hamadou Nkouyate,hamadou nkouyate,Corey Baker,corey baker,Sport / Private Pilot (PP Part 141),1/9/2024,Graduated,,False,01/03/2025,12/3/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Rafael Campero,rafael campero,Brandon Nguyen,brandon nguyen,Instrument Rating (IR Part 141),1/9/2023,Graduated,,False,02/15/2024,12/21/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Samuel Pettus Jr,samuel pettus jr,Reginald Thomas,reginald thomas,Instrument Rating (IR Part 141),1/9/2023,Graduated,,False,02/07/2024,12/15/2023,cta_export,Enrollments1781966838566.csv
+2026-06-20,Mariah Ervin,mariah ervin,Brandyn Petteway,brandyn petteway,Instrument Rating (IR Part 141),1/8/2024,Graduated,,False,04/22/2024,4/9/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Jeremy Martin,jeremy martin,Madelyn Knowles,madelyn knowles,Sport / Private Pilot (PP Part 141),1/8/2024,Graduated,,False,02/01/2025,12/13/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Egan Hartley,egan hartley,Robert Dunn,robert dunn,Sport / Private Pilot (PP Part 141),1/8/2024,Graduated,,False,12/13/2024,11/27/2024,cta_export,Enrollments1781966838566.csv
+2026-06-20,Raymund Bugarin,raymund bugarin,Peter Van Chau,peter van chau,Commercial Pilot (TAA) (COM Part 141),1/4/2024,Graduated,,False,09/20/2024,8/27/2024,cta_export,Enrollments1781966838566.csv

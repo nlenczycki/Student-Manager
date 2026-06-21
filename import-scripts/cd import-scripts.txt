@@ -1,0 +1,13 @@
+cd import-scripts
+   python import_cta_snapshot.py <Enrollments1781966838566.csv> cta_clean.csv --snapshot-date 2026-06-20
+   python import_flightcircle_sessions.py <allreservationsexport-export-1781967571.csv> flightcircle_clean.csv
+
+"C:\Users\SGPor\Downloads\allreservationsexport-export-1781967571.csv"
+
+cd import-scripts
+   python import_cta_snapshot.py <your_cta_export.csv> cta_clean.csv --snapshot-date 2026-06-20
+   python import_flightcircle_sessions.py <your_flightcircle_export.csv> flightcircle_clean.csv
+
+cd C:\Users\SGPor\Documents\Flight School App\import-scripts
+python import_cta_snapshot.py Enrollments1781966838566.csv cta_clean.csv --snapshot-date 2026-06-20
+   python import_flightcircle_sessions.py allreservationsexport-export-1781967571.csv flightcircle_clean.csv

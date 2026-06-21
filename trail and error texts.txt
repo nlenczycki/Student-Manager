@@ -1,0 +1,30 @@
+cd import-scripts
+   python import_cta_snapshot.py <Enrollments1781966838566.csv> cta_clean.csv --snapshot-date 2026-06-20
+   python import_flightcircle_sessions.py <allreservationsexport-export-1781967571.csv> flightcircle_clean.csv
+
+"C:\Users\SGPor\Downloads\allreservationsexport-export-1781967571.csv"
+
+cd import-scripts
+   python import_cta_snapshot.py <your_cta_export.csv> cta_clean.csv --snapshot-date 2026-06-20
+   python import_flightcircle_sessions.py <your_flightcircle_export.csv> flightcircle_clean.csv
+
+cd C:\Users\SGPor\Documents\Flight School App\import-scripts
+python import_cta_snapshot.py Enrollments1781966838566.csv cta_clean.csv --snapshot-date 2026-06-20
+python import_flightcircle_sessions.py allreservationsexport-export-1781967571.csv flightcircle_clean.csv
+
+
+cd supabase
+   python load_to_supabase.py C:\Users\SGPor\Documents\Flight_School_App\import-scripts\cta_clean.csv C:\Users\SGPor\Documents\Flight_School_App\import-scripts\flightcircle_clean.csv
+
+python load_to_supabase.py ../import-scripts/cta_clean.csv ../import-scripts/flightcircle_clean.csv
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZia2ZjY2NqYmF1eXlkcm1xY2xlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5NTY4OTEsImV4cCI6MjA5NzUzMjg5MX0.fTH3blRF6mqYwAhpU2bRhVZaMfQmzQhBpnXCw3BCZD4
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZia2ZjY2NqYmF1eXlkcm1xY2xlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MTk1Njg5MSwiZXhwIjoyMDk3NTMyODkxfQ.mFSUCf00INeUvPAkiYXqXQmb1HzCexZcJXYcTF4HobQ
+
+------------------------ in supabase
+set SUPABASE_URL=https://fbkfcccjbauyydrmqcle.supabase.co
+set SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZia2ZjY2NqYmF1eXlkcm1xY2xlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MTk1Njg5MSwiZXhwIjoyMDk3NTMyODkxfQ.mFSUCf00INeUvPAkiYXqXQmb1HzCexZcJXYcTF4HobQ
+
+python load_to_supabase.py C:\Users\SGPor\Documents\Flight_School_App\import-scripts\cta_clean.csv C:\Users\SGPor\Documents\Flight_School_App\import-scripts\flightcircle_clean.csv
+
